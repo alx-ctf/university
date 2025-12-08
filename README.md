@@ -9,3 +9,5 @@
 [Рабочая тетрадь 3](./homework_3.ipynb)
 
 [Рабочая тетрадь 4](./homework_4.ipynb)
+
+[Рабочая тетрадь 5](./homework_5.ipynb)
